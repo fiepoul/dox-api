@@ -6,7 +6,11 @@
     "director": "John Doe",
     "duration": 120,
     "posterUrl": "https://example.com/poster1.jpg",
-    "time": "10:00 - 11:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +19,11 @@
     "director": "Jane Smith",
     "duration": 95,
     "posterUrl": "https://example.com/poster2.jpg",
-    "time": "12:00 - 13:45"
+    "schedules": [
+      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +32,11 @@
     "director": "Alice Johnson",
     "duration": 110,
     "posterUrl": "https://example.com/poster3.jpg",
-    "time": "14:00 - 15:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +45,11 @@
     "director": "Robert Brown",
     "duration": 105,
     "posterUrl": "https://example.com/poster4.jpg",
-    "time": "16:00 - 17:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +58,11 @@
     "director": "Emily Davis",
     "duration": 115,
     "posterUrl": "https://example.com/poster5.jpg",
-    "time": "10:00 - 11:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +71,11 @@
     "director": "Michael Wilson",
     "duration": 100,
     "posterUrl": "https://example.com/poster6.jpg",
-    "time": "12:00 - 13:45"
+    "schedules": [
+      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +84,11 @@
     "director": "Laura Thomas",
     "duration": 130,
     "posterUrl": "https://example.com/poster7.jpg",
-    "time": "14:00 - 15:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +97,11 @@
     "director": "David Moore",
     "duration": 98,
     "posterUrl": "https://example.com/poster8.jpg",
-    "time": "16:00 - 17:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +110,11 @@
     "director": "Sophia Taylor",
     "duration": 112,
     "posterUrl": "https://example.com/poster9.jpg",
-    "time": "10:00 - 11:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 10,
@@ -87,7 +123,11 @@
     "director": "James Anderson",
     "duration": 107,
     "posterUrl": "https://example.com/poster10.jpg",
-    "time": "12:00 - 13:45"
+    "schedules": [
+      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 11,
@@ -96,7 +136,11 @@
     "director": "Olivia Martinez",
     "duration": 105,
     "posterUrl": "https://example.com/poster11.jpg",
-    "time": "14:00 - 15:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 12,
@@ -105,7 +149,11 @@
     "director": "William Hernandez",
     "duration": 120,
     "posterUrl": "https://example.com/poster12.jpg",
-    "time": "16:00 - 17:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 13,
@@ -114,7 +162,11 @@
     "director": "Ava Clark",
     "duration": 110,
     "posterUrl": "https://example.com/poster13.jpg",
-    "time": "10:00 - 11:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +175,11 @@
     "director": "Ethan Lewis",
     "duration": 125,
     "posterUrl": "https://example.com/poster14.jpg",
-    "time": "12:00 - 13:45"
+    "schedules": [
+      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +188,11 @@
     "director": "Mia Robinson",
     "duration": 102,
     "posterUrl": "https://example.com/poster15.jpg",
-    "time": "14:00 - 15:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 16,
@@ -141,7 +201,11 @@
     "director": "Benjamin Walker",
     "duration": 115,
     "posterUrl": "https://example.com/poster16.jpg",
-    "time": "16:00 - 17:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+    ]
   },
   {
     "id": 17,
@@ -150,230 +214,12 @@
     "director": "Charlotte Young",
     "duration": 108,
     "posterUrl": "https://example.com/poster17.jpg",
-    "time": "10:00 - 11:30"
+    "schedules": [
+      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+    ]
   },
-  [
-    {
-      "id": 1,
-      "title": "The Silent Forest",
-      "description": "Med kunsthistorien og internettets uendelige billedarkiv som byggesten har Jeppe Lange (‘Abyss’, CPH:DOX 2022) skabt et tankevækkende og underspillet morsomt værk, hvor en (fiktiv) kunstig intelligens udvikler selvbevidsthed ser på menneskehedens moralske begrænsninger med et nyt blik. Ligesom lysets og lydens spektrer strækker sig ud over menneskets opfattelse, opdager AI’en et mentalt spektrum, der er langt større, end hvad noget individuelt sind kan forstå, og skaber en hidtil uset forbindelse mellem teknologi og naturens skjulte mønstre.",
-      "director": "John Doe",
-      "duration": 120,
-      "posterUrl": "https://example.com/poster1.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Dystopia Dreams",
-      "description": "I en verden, hvor overvågning og datahøst har overtaget privatlivets rum, følger ‘Dystopia Dreams’ en gruppe unge, der drømmer om at bryde fri af algoritmernes jerngreb. Dokumentaristerne Jane Smith og Martin Krol undersøger, hvordan drømme og frihed bliver omsat til datapunkter – og hvilket menneskesyn, der gemmer sig bag de skærmbillede­styrede byer.",
-      "director": "Jane Smith",
-      "duration": 95,
-      "posterUrl": "https://example.com/poster2.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Echoes of Nature",
-      "description": "I ‘Echoes of Nature’ fører Alice Johnson os tilbage til rødderne, hvor menneske og natur samspiller. Gennem sanselige optagelser af skov, ørken og hav skitserer Johnson en rytme, der går på tværs af menneskets historie: fra oprindelige myter til nutidens klimakrise. Filmens lydside, optaget live med feltmikrofoner, lader naturens egne stemmer blive lige så tydelige som de menneskelige.",
-      "director": "Alice Johnson",
-      "duration": 110,
-      "posterUrl": "https://example.com/poster3.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Reflections",
-      "description": "Robert Brown undersøger spejlinger – både metaforisk og bogstaveligt. Hvem er ‘jeg’, når alt, vi ser, er en refleksion? Med hackede overflader, Instagram‑filtre og interaktive mirrorscapes udfordrer filmen vores selvbilleder og den kulturelle besættelse af ‘det perfekte selfie’.",
-      "director": "Robert Brown",
-      "duration": 105,
-      "posterUrl": "https://example.com/poster4.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Mystic River",
-      "description": "Emily Davis tager os med til en lille flods bygd, hvor locale legender om et åndeligt væsen har præget generationer. Gennem interviews med ældste og optagelser af natlige ceremonier væves en fortælling om, hvordan tro og virkelighed kan smelte sammen i en tid, hvor det digitale ekspanderer vores forestillinger om det ukendte.",
-      "director": "Emily Davis",
-      "duration": 115,
-      "posterUrl": "https://example.com/poster5.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Urban Shadows",
-      "description": "Michael Wilson skildrer byens usynlige lag: graffiti, rumvæsendrømme og natte­vandringer gennem nedlagte fabrikshaller. Filmen blander reportage med drømme­agtige sekvenser, der stiller spørgsmålstegn ved, hvem der ejer byens rum, når solen går ned, og asfalten vågner.",
-      "director": "Michael Wilson",
-      "duration": 100,
-      "posterUrl": "https://example.com/poster6.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Celestial Dreams",
-      "description": "Laura Thomas’ visuelt storslåede digt om kosmos bader biograflærredet i stjernestøv. Med ultra‑slowmotion og time‑lapse får vi indtryk af universets langsomme puls. Når filmen glider mellem fakta og poesi, minder den os om vores små skridt på en kugle i et uendeligt rum.",
-      "director": "Laura Thomas",
-      "duration": 130,
-      "posterUrl": "https://example.com/poster7.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Infinite Horizons",
-      "description": "David Moore stiller spørgsmålet: Hvor slutter horisonten, og begynder det ukendte? Filmens roadtrip fra kyst til kyst, fra sandklitter til neonoplyste metropoler, bliver et spejl for vores egen grænseløse nysgerrighed – og vores evindelige jagt på næste destination.",
-      "director": "David Moore",
-      "duration": 98,
-      "posterUrl": "https://example.com/poster8.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Fragments",
-      "description": "Sophia Taylor klipper hver scene som en drøm i brudstykker, hvor tid og rum fragmenteres. Interviewede personer fortæller om brudstykker af deres liv: en barndomsven, et tabt kærlighedsbrev, et udsnit af et telefonopkald. Sammen danner de et kalejdoskopisk billede af, hvordan vi husker – og glemmer.",
-      "director": "Sophia Taylor",
-      "duration": 112,
-      "posterUrl": "https://example.com/poster9.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 10,
-      "title": "Shattered Light",
-      "description": "James Anderson undersøger lysets skyggesider: Hvordan kan noget så livgivende også blænde os og manipulere vores opfattelse? Via mikro‑installationer, der leger med prismatiske effekter, balancekunstnere i krystalkorridorer og visuelle eksperimenter, bliver lyset i ‘Shattered Light’ både skaber og sabotør.",
-      "director": "James Anderson",
-      "duration": 107,
-      "posterUrl": "https://example.com/poster10.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Whispers",
-      "description": "Olivia Martinez lytter til lavmælt tale: vuggende børnerim, hvisken i kirkerum og hemmelige dagbogsuddrag. Ved at zoome ind på det sagte og skyggefulde opstiller filmen en parallel mellem det, vi vælger at sige højt, og det, vi kun vover at hviske.",
-      "director": "Olivia Martinez",
-      "duration": 105,
-      "posterUrl": "https://example.com/poster11.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Burning Skies",
-      "description": "William Hernandez drager mod ørkenens brændende horisonter for at dokumentere flygtige naturfænomener: ildstorme, solnedgange og sandstorme, der maler himlen i blodrødt og indhyller landskabet i et brændende skær. Filmen stiller spørgsmål: Hvordan påvirker vores fælles klimafortælling opfattelsen af skønhed?",
-      "director": "William Hernandez",
-      "duration": 120,
-      "posterUrl": "https://example.com/poster12.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 13,
-      "title": "The Last Echo",
-      "description": "Ava Clark følger en lydkunstner, der indsamler de sidste ekkoer i forladte miner, jernbaner og kirkeruiner. Hvert rum bærer sin egen resonans, og som Clark lytter, folder der sig en historie om tidens uafvendelige viderefart – og om alt det, der engang var.",
-      "director": "Ava Clark",
-      "duration": 110,
-      "posterUrl": "https://example.com/poster13.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Nebula's Embrace",
-      "description": "Ethan Lewis inviterer os til et nærbillede af galakser set gennem amatørteleskoper og rumsonder. Med kombination af animation og dokumentarisk video udforsker ‘Nebula’s Embrace’ menneskets evige længsel efter at blive ét med universet.",
-      "director": "Ethan Lewis",
-      "duration": 125,
-      "posterUrl": "https://example.com/poster14.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 15,
-      "title": "Deep Waters",
-      "description": "Mia Robinson dykker med robot‑submariner i dybet for at indfange havets ukendte arter. Gennem 360°‑optagelser under vandfladen fremstår havets dyb som både frygtindgydende og fortryllende – en ensom verden, hvor tid måles i langsomdriftede bølger.",
-      "director": "Mia Robinson",
-      "duration": 102,
-      "posterUrl": "https://example.com/poster15.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 16,
-      "title": "Crimson Tides",
-      "description": "Benjamin Walker rejser langs kyster, hvor blodrøde tidevand markerer historiske slagmarker. Ved at sammenkoble dokumentariske genfortællinger med visuelle metaforer om farven rød stiller filmen spørgsmål om, hvordan vi husker – og glemmer – vores krige.",
-      "director": "Benjamin Walker",
-      "duration": 115,
-      "posterUrl": "https://example.com/poster16.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-      ]
-    },
-    {
-      "id": 17,
-      "title": "Silent Reverie",
-      "description": "Charlotte Young lader kameraet hvile på øde scenerier: tågedækkede sletter, forladte gyngeapparater, forvitrede gravsten. Med minimalistisk lydside opstår en meditativ tilstand, hvor beskueren inviteres til at drømme sig ind i stilheden.",
-      "director": "Charlotte Young",
-      "duration": 108,
-      "posterUrl": "https://example.com/poster17.jpg",
-      "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-      ]
-    },
     {
       "id": 18,
       "title": "Dawn of Shadows",
@@ -466,4 +312,3 @@
       ]
     }
   ]
-]
