@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "description": "A captivating journey into nature's mysteries.",
+    "director": "John Doe",
+    "duration": 120,
+    "posterUrl": "https://example.com/poster1.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 2,
+    "title": "Dystopia Dreams",
+    "description": "A futuristic tale of society on the edge.",
+    "director": "Jane Smith",
+    "duration": 95,
+    "posterUrl": "https://example.com/poster2.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 3,
+    "title": "Echoes of Nature",
+    "description": "An exploration of the eternal beauty of nature.",
+    "director": "Alice Johnson",
+    "duration": 110,
+    "posterUrl": "https://example.com/poster3.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 4,
+    "title": "Reflections",
+    "description": "A dramatic reflection on life and identity.",
+    "director": "Robert Brown",
+    "duration": 105,
+    "posterUrl": "https://example.com/poster4.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 5,
+    "title": "Mystic River",
+    "description": "An enchanting exploration of hidden truths.",
+    "director": "Emily Davis",
+    "duration": 115,
+    "posterUrl": "https://example.com/poster5.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 6,
+    "title": "Urban Shadows",
+    "description": "A gritty journey through the city's underbelly.",
+    "director": "Michael Wilson",
+    "duration": 100,
+    "posterUrl": "https://example.com/poster6.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 7,
+    "title": "Celestial Dreams",
+    "description": "A visual odyssey into space and time.",
+    "director": "Laura Thomas",
+    "duration": 130,
+    "posterUrl": "https://example.com/poster7.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 8,
+    "title": "Infinite Horizons",
+    "description": "A story challenging the limits of reality.",
+    "director": "David Moore",
+    "duration": 98,
+    "posterUrl": "https://example.com/poster8.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 9,
+    "title": "Fragments",
+    "description": "A narrative woven from memories and dreams.",
+    "director": "Sophia Taylor",
+    "duration": 112,
+    "posterUrl": "https://example.com/poster9.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 10,
+    "title": "Shattered Light",
+    "description": "An exploration of hope amid darkness.",
+    "director": "James Anderson",
+    "duration": 107,
+    "posterUrl": "https://example.com/poster10.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 11,
+    "title": "Whispers",
+    "description": "Soft voices in a noisy world.",
+    "director": "Olivia Martinez",
+    "duration": 105,
+    "posterUrl": "https://example.com/poster11.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 12,
+    "title": "Burning Skies",
+    "description": "A dramatic confrontation between nature and civilization.",
+    "director": "William Hernandez",
+    "duration": 120,
+    "posterUrl": "https://example.com/poster12.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 13,
+    "title": "The Last Echo",
+    "description": "A haunting tale of loss and redemption.",
+    "director": "Ava Clark",
+    "duration": 110,
+    "posterUrl": "https://example.com/poster13.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 14,
+    "title": "Nebula's Embrace",
+    "description": "Discover the beauty of cosmic wonder.",
+    "director": "Ethan Lewis",
+    "duration": 125,
+    "posterUrl": "https://example.com/poster14.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 15,
+    "title": "Deep Waters",
+    "description": "Dive into the secrets that lie beneath.",
+    "director": "Mia Robinson",
+    "duration": 102,
+    "posterUrl": "https://example.com/poster15.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 16,
+    "title": "Crimson Tides",
+    "description": "The ebb and flow of fate in a turbulent world.",
+    "director": "Benjamin Walker",
+    "duration": 115,
+    "posterUrl": "https://example.com/poster16.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 17,
+    "title": "Silent Reverie",
+    "description": "A quiet moment of introspection and beauty.",
+    "director": "Charlotte Young",
+    "duration": 108,
+    "posterUrl": "https://example.com/poster17.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 18,
+    "title": "Dawn of Shadows",
+    "description": "The beginning of a mysterious journey.",
+    "director": "Alexander Hall",
+    "duration": 95,
+    "posterUrl": "https://example.com/poster18.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 19,
+    "title": "Celestial Voyage",
+    "description": "An epic odyssey through the stars.",
+    "director": "Amelia Allen",
+    "duration": 132,
+    "posterUrl": "https://example.com/poster19.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 20,
+    "title": "Grit & Glory",
+    "description": "A raw depiction of human struggle and triumph.",
+    "director": "Daniel Wright",
+    "duration": 110,
+    "posterUrl": "https://example.com/poster20.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 21,
+    "title": "Midnight Echoes",
+    "description": "The haunting call of the night.",
+    "director": "Sofia Scott",
+    "duration": 104,
+    "posterUrl": "https://example.com/poster21.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 22,
+    "title": "Neon Dreams",
+    "description": "A vibrant dive into a futuristic metropolis.",
+    "director": "Lucas Adams",
+    "duration": 99,
+    "posterUrl": "https://example.com/poster22.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 23,
+    "title": "Winds of Change",
+    "description": "A journey of transformation and hope.",
+    "director": "Harper Baker",
+    "duration": 107,
+    "posterUrl": "https://example.com/poster23.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 24,
+    "title": "Lost Horizons",
+    "description": "An adventure beyond the known world.",
+    "director": "Samuel Gonzalez",
+    "duration": 113,
+    "posterUrl": "https://example.com/poster24.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 25,
+    "title": "Echo Chamber",
+    "description": "A world where every voice is heard.",
+    "director": "Ella Nelson",
+    "duration": 101,
+    "posterUrl": "https://example.com/poster25.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 26,
+    "title": "Shifting Sands",
+    "description": "Time and memory in a desert of uncertainty.",
+    "director": "Gabriel Carter",
+    "duration": 106,
+    "posterUrl": "https://example.com/poster26.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 27,
+    "title": "Frozen Moments",
+    "description": "A pause in time captured in a frame.",
+    "director": "Lily Mitchell",
+    "duration": 110,
+    "posterUrl": "https://example.com/poster27.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 28,
+    "title": "Radiant Dawn",
+    "description": "The promise of a new beginning.",
+    "director": "Henry Perez",
+    "duration": 115,
+    "posterUrl": "https://example.com/poster28.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 29,
+    "title": "Hidden Realms",
+    "description": "Explore unseen dimensions of life.",
+    "director": "Zoe Roberts",
+    "duration": 108,
+    "posterUrl": "https://example.com/poster29.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 30,
+    "title": "Mirrored Souls",
+    "description": "Reflections on love, loss, and the self.",
+    "director": "Owen Turner",
+    "duration": 112,
+    "posterUrl": "https://example.com/poster30.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 31,
+    "title": "Fading Echo",
+    "description": "A story of memories slowly disappearing.",
+    "director": "Chloe Phillips",
+    "duration": 104,
+    "posterUrl": "https://example.com/poster31.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 32,
+    "title": "Infinite Loop",
+    "description": "Caught in a cycle of dreams and reality.",
+    "director": "Jack Campbell",
+    "duration": 100,
+    "posterUrl": "https://example.com/poster32.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 33,
+    "title": "Spectrum",
+    "description": "A vibrant display of life in all its colors.",
+    "director": "Megan Parker",
+    "duration": 107,
+    "posterUrl": "https://example.com/poster33.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 34,
+    "title": "Frostbite",
+    "description": "The cold touch of fate in a frozen world.",
+    "director": "Ryan Stewart",
+    "duration": 109,
+    "posterUrl": "https://example.com/poster34.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 35,
+    "title": "Oblivion",
+    "description": "A journey through the void where nothing is as it seems.",
+    "director": "Avery Morris",
+    "duration": 111,
+    "posterUrl": "https://example.com/poster35.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 36,
+    "title": "Gravity",
+    "description": "The force that binds us all.",
+    "director": "Nathan Rogers",
+    "duration": 105,
+    "posterUrl": "https://example.com/poster36.jpg",
+    "time": "16:00 - 17:30"
+  },
+  {
+    "id": 37,
+    "title": "Starlight",
+    "description": "The magic of the cosmos captured on film.",
+    "director": "Isabella Reed",
+    "duration": 114,
+    "posterUrl": "https://example.com/poster37.jpg",
+    "time": "10:00 - 11:30"
+  },
+  {
+    "id": 38,
+    "title": "Mirage",
+    "description": "Illusions and reality merge in this spectacular tale.",
+    "director": "Liam Reed",
+    "duration": 102,
+    "posterUrl": "https://example.com/poster38.jpg",
+    "time": "12:00 - 13:45"
+  },
+  {
+    "id": 39,
+    "title": "Twilight",
+    "description": "A journey through dusk from light to darkness.",
+    "director": "Evelyn Hughes",
+    "duration": 110,
+    "posterUrl": "https://example.com/poster39.jpg",
+    "time": "14:00 - 15:30"
+  },
+  {
+    "id": 40,
+    "title": "Finale",
+    "description": "The climactic end to an unforgettable saga.",
+    "director": "Michael Bennett",
+    "duration": 116,
+    "posterUrl": "https://example.com/poster40.jpg",
+    "time": "16:00 - 17:30"
+  }
+]
