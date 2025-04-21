@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "The Silent Forest",
-    "description": "A captivating journey into nature's mysteries.",
+    "description": "Med kunsthistorien og internettets uendelige billedarkiv som byggesten har Jeppe Lange (‘Abyss’, CPH:DOX 2022) skabt et tankevækkende og underspillet morsomt værk, hvor en (fiktiv) kunstig intelligens udvikler selvbevidsthed ser på menneskehedens moralske begrænsninger med et nyt blik. Ligesom lysets og lydens spektrer strækker sig ud over menneskets opfattelse, opdager AI’en et mentalt spektrum, der er langt større, end hvad noget individuelt sind kan forstå, og skaber en hidtil uset forbindelse mellem teknologi og naturens skjulte mønstre.",
     "director": "John Doe",
     "duration": 120,
     "posterUrl": "https://example.com/poster1.jpg",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Dystopia Dreams",
-    "description": "A futuristic tale of society on the edge.",
+    "description": "I en verden, hvor overvågning og datahøst har overtaget privatlivets rum, følger ‘Dystopia Dreams’ en gruppe unge, der drømmer om at bryde fri af algoritmernes jerngreb. Dokumentaristerne Jane Smith og Martin Krol undersøger, hvordan drømme og frihed bliver omsat til datapunkter – og hvilket menneskesyn, der gemmer sig bag de skærmbillede­styrede byer.",
     "director": "Jane Smith",
     "duration": 95,
     "posterUrl": "https://example.com/poster2.jpg",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "title": "Echoes of Nature",
-    "description": "An exploration of the eternal beauty of nature.",
+    "description": "I ‘Echoes of Nature’ fører Alice Johnson os tilbage til rødderne, hvor menneske og natur samspiller. Gennem sanselige optagelser af skov, ørken og hav skitserer Johnson en rytme, der går på tværs af menneskets historie: fra oprindelige myter til nutidens klimakrise. Filmens lydside, optaget live med feltmikrofoner, lader naturens egne stemmer blive lige så tydelige som de menneskelige.",
     "director": "Alice Johnson",
     "duration": 110,
     "posterUrl": "https://example.com/poster3.jpg",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Reflections",
-    "description": "A dramatic reflection on life and identity.",
+    "description": "Robert Brown undersøger spejlinger – både metaforisk og bogstaveligt. Hvem er ‘jeg’, når alt, vi ser, er en refleksion? Med hackede overflader, Instagram‑filtre og interaktive mirrorscapes udfordrer filmen vores selvbilleder og den kulturelle besættelse af ‘det perfekte selfie’.",
     "director": "Robert Brown",
     "duration": 105,
     "posterUrl": "https://example.com/poster4.jpg",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Mystic River",
-    "description": "An enchanting exploration of hidden truths.",
+    "description": "Emily Davis tager os med til en lille flods bygd, hvor locale legender om et åndeligt væsen har præget generationer. Gennem interviews med ældste og optagelser af natlige ceremonier væves en fortælling om, hvordan tro og virkelighed kan smelte sammen i en tid, hvor det digitale ekspanderer vores forestillinger om det ukendte.",
     "director": "Emily Davis",
     "duration": 115,
     "posterUrl": "https://example.com/poster5.jpg",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "title": "Urban Shadows",
-    "description": "A gritty journey through the city's underbelly.",
+    "description": "Michael Wilson skildrer byens usynlige lag: graffiti, rumvæsendrømme og natte­vandringer gennem nedlagte fabrikshaller. Filmen blander reportage med drømme­agtige sekvenser, der stiller spørgsmålstegn ved, hvem der ejer byens rum, når solen går ned, og asfalten vågner.",
     "director": "Michael Wilson",
     "duration": 100,
     "posterUrl": "https://example.com/poster6.jpg",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "title": "Celestial Dreams",
-    "description": "A visual odyssey into space and time.",
+    "description": "Laura Thomas’ visuelt storslåede digt om kosmos bader biograflærredet i stjernestøv. Med ultra‑slowmotion og time‑lapse får vi indtryk af universets langsomme puls. Når filmen glider mellem fakta og poesi, minder den os om vores små skridt på en kugle i et uendeligt rum.",
     "director": "Laura Thomas",
     "duration": 130,
     "posterUrl": "https://example.com/poster7.jpg",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "title": "Infinite Horizons",
-    "description": "A story challenging the limits of reality.",
+    "description": "David Moore stiller spørgsmålet: Hvor slutter horisonten, og begynder det ukendte? Filmens roadtrip fra kyst til kyst, fra sandklitter til neonoplyste metropoler, bliver et spejl for vores egen grænseløse nysgerrighed – og vores evindelige jagt på næste destination.",
     "director": "David Moore",
     "duration": 98,
     "posterUrl": "https://example.com/poster8.jpg",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "title": "Fragments",
-    "description": "A narrative woven from memories and dreams.",
+    "description": "Sophia Taylor klipper hver scene som en drøm i brudstykker, hvor tid og rum fragmenteres. Interviewede personer fortæller om brudstykker af deres liv: en barndomsven, et tabt kærlighedsbrev, et udsnit af et telefonopkald. Sammen danner de et kalejdoskopisk billede af, hvordan vi husker – og glemmer.",
     "director": "Sophia Taylor",
     "duration": 112,
     "posterUrl": "https://example.com/poster9.jpg",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "title": "Shattered Light",
-    "description": "An exploration of hope amid darkness.",
+    "description": "James Anderson undersøger lysets skyggesider: Hvordan kan noget så livgivende også blænde os og manipulere vores opfattelse? Via mikro‑installationer, der leger med prismatiske effekter, balancekunstnere i krystalkorridorer og visuelle eksperimenter, bliver lyset i ‘Shattered Light’ både skaber og sabotør.",
     "director": "James Anderson",
     "duration": 107,
     "posterUrl": "https://example.com/poster10.jpg",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "title": "Whispers",
-    "description": "Soft voices in a noisy world.",
+    "description": "Olivia Martinez lytter til lavmælt tale: vuggende børnerim, hvisken i kirkerum og hemmelige dagbogsuddrag. Ved at zoome ind på det sagte og skyggefulde opstiller filmen en parallel mellem det, vi vælger at sige højt, og det, vi kun vover at hviske.",
     "director": "Olivia Martinez",
     "duration": 105,
     "posterUrl": "https://example.com/poster11.jpg",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "title": "Burning Skies",
-    "description": "A dramatic confrontation between nature and civilization.",
+    "description": "William Hernandez drager mod ørkenens brændende horisonter for at dokumentere flygtige naturfænomener: ildstorme, solnedgange og sandstorme, der maler himlen i blodrødt og indhyller landskabet i et brændende skær. Filmen stiller spørgsmål: Hvordan påvirker vores fælles klimafortælling opfattelsen af skønhed?",
     "director": "William Hernandez",
     "duration": 120,
     "posterUrl": "https://example.com/poster12.jpg",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "title": "The Last Echo",
-    "description": "A haunting tale of loss and redemption.",
+    "description": "Ava Clark følger en lydkunstner, der indsamler de sidste ekkoer i forladte miner, jernbaner og kirkeruiner. Hvert rum bærer sin egen resonans, og som Clark lytter, folder der sig en historie om tidens uafvendelige viderefart – og om alt det, der engang var.",
     "director": "Ava Clark",
     "duration": 110,
     "posterUrl": "https://example.com/poster13.jpg",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "title": "Nebula's Embrace",
-    "description": "Discover the beauty of cosmic wonder.",
+    "description": "Ethan Lewis inviterer os til et nærbillede af galakser set gennem amatørteleskoper og rumsonder. Med kombination af animation og dokumentarisk video udforsker ‘Nebula’s Embrace’ menneskets evige længsel efter at blive ét med universet.",
     "director": "Ethan Lewis",
     "duration": 125,
     "posterUrl": "https://example.com/poster14.jpg",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "title": "Deep Waters",
-    "description": "Dive into the secrets that lie beneath.",
+    "description": "Mia Robinson dykker med robot‑submariner i dybet for at indfange havets ukendte arter. Gennem 360°‑optagelser under vandfladen fremstår havets dyb som både frygtindgydende og fortryllende – en ensom verden, hvor tid måles i langsomdriftede bølger.",
     "director": "Mia Robinson",
     "duration": 102,
     "posterUrl": "https://example.com/poster15.jpg",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "title": "Crimson Tides",
-    "description": "The ebb and flow of fate in a turbulent world.",
+    "description": "Benjamin Walker rejser langs kyster, hvor blodrøde tidevand markerer historiske slagmarker. Ved at sammenkoble dokumentariske genfortællinger med visuelle metaforer om farven rød stiller filmen spørgsmål om, hvordan vi husker – og glemmer – vores krige.",
     "director": "Benjamin Walker",
     "duration": 115,
     "posterUrl": "https://example.com/poster16.jpg",
@@ -146,217 +146,323 @@
   {
     "id": 17,
     "title": "Silent Reverie",
-    "description": "A quiet moment of introspection and beauty.",
+    "description": "Charlotte Young lader kameraet hvile på øde scenerier: tågedækkede sletter, forladte gyngeapparater, forvitrede gravsten. Med minimalistisk lydside opstår en meditativ tilstand, hvor beskueren inviteres til at drømme sig ind i stilheden.",
     "director": "Charlotte Young",
     "duration": 108,
     "posterUrl": "https://example.com/poster17.jpg",
     "time": "10:00 - 11:30"
   },
-  {
-    "id": 18,
-    "title": "Dawn of Shadows",
-    "description": "The beginning of a mysterious journey.",
-    "director": "Alexander Hall",
-    "duration": 95,
-    "posterUrl": "https://example.com/poster18.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 19,
-    "title": "Celestial Voyage",
-    "description": "An epic odyssey through the stars.",
-    "director": "Amelia Allen",
-    "duration": 132,
-    "posterUrl": "https://example.com/poster19.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 20,
-    "title": "Grit & Glory",
-    "description": "A raw depiction of human struggle and triumph.",
-    "director": "Daniel Wright",
-    "duration": 110,
-    "posterUrl": "https://example.com/poster20.jpg",
-    "time": "16:00 - 17:30"
-  },
-  {
-    "id": 21,
-    "title": "Midnight Echoes",
-    "description": "The haunting call of the night.",
-    "director": "Sofia Scott",
-    "duration": 104,
-    "posterUrl": "https://example.com/poster21.jpg",
-    "time": "10:00 - 11:30"
-  },
-  {
-    "id": 22,
-    "title": "Neon Dreams",
-    "description": "A vibrant dive into a futuristic metropolis.",
-    "director": "Lucas Adams",
-    "duration": 99,
-    "posterUrl": "https://example.com/poster22.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 23,
-    "title": "Winds of Change",
-    "description": "A journey of transformation and hope.",
-    "director": "Harper Baker",
-    "duration": 107,
-    "posterUrl": "https://example.com/poster23.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 24,
-    "title": "Lost Horizons",
-    "description": "An adventure beyond the known world.",
-    "director": "Samuel Gonzalez",
-    "duration": 113,
-    "posterUrl": "https://example.com/poster24.jpg",
-    "time": "16:00 - 17:30"
-  },
-  {
-    "id": 25,
-    "title": "Echo Chamber",
-    "description": "A world where every voice is heard.",
-    "director": "Ella Nelson",
-    "duration": 101,
-    "posterUrl": "https://example.com/poster25.jpg",
-    "time": "10:00 - 11:30"
-  },
-  {
-    "id": 26,
-    "title": "Shifting Sands",
-    "description": "Time and memory in a desert of uncertainty.",
-    "director": "Gabriel Carter",
-    "duration": 106,
-    "posterUrl": "https://example.com/poster26.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 27,
-    "title": "Frozen Moments",
-    "description": "A pause in time captured in a frame.",
-    "director": "Lily Mitchell",
-    "duration": 110,
-    "posterUrl": "https://example.com/poster27.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 28,
-    "title": "Radiant Dawn",
-    "description": "The promise of a new beginning.",
-    "director": "Henry Perez",
-    "duration": 115,
-    "posterUrl": "https://example.com/poster28.jpg",
-    "time": "16:00 - 17:30"
-  },
-  {
-    "id": 29,
-    "title": "Hidden Realms",
-    "description": "Explore unseen dimensions of life.",
-    "director": "Zoe Roberts",
-    "duration": 108,
-    "posterUrl": "https://example.com/poster29.jpg",
-    "time": "10:00 - 11:30"
-  },
-  {
-    "id": 30,
-    "title": "Mirrored Souls",
-    "description": "Reflections on love, loss, and the self.",
-    "director": "Owen Turner",
-    "duration": 112,
-    "posterUrl": "https://example.com/poster30.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 31,
-    "title": "Fading Echo",
-    "description": "A story of memories slowly disappearing.",
-    "director": "Chloe Phillips",
-    "duration": 104,
-    "posterUrl": "https://example.com/poster31.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 32,
-    "title": "Infinite Loop",
-    "description": "Caught in a cycle of dreams and reality.",
-    "director": "Jack Campbell",
-    "duration": 100,
-    "posterUrl": "https://example.com/poster32.jpg",
-    "time": "16:00 - 17:30"
-  },
-  {
-    "id": 33,
-    "title": "Spectrum",
-    "description": "A vibrant display of life in all its colors.",
-    "director": "Megan Parker",
-    "duration": 107,
-    "posterUrl": "https://example.com/poster33.jpg",
-    "time": "10:00 - 11:30"
-  },
-  {
-    "id": 34,
-    "title": "Frostbite",
-    "description": "The cold touch of fate in a frozen world.",
-    "director": "Ryan Stewart",
-    "duration": 109,
-    "posterUrl": "https://example.com/poster34.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 35,
-    "title": "Oblivion",
-    "description": "A journey through the void where nothing is as it seems.",
-    "director": "Avery Morris",
-    "duration": 111,
-    "posterUrl": "https://example.com/poster35.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 36,
-    "title": "Gravity",
-    "description": "The force that binds us all.",
-    "director": "Nathan Rogers",
-    "duration": 105,
-    "posterUrl": "https://example.com/poster36.jpg",
-    "time": "16:00 - 17:30"
-  },
-  {
-    "id": 37,
-    "title": "Starlight",
-    "description": "The magic of the cosmos captured on film.",
-    "director": "Isabella Reed",
-    "duration": 114,
-    "posterUrl": "https://example.com/poster37.jpg",
-    "time": "10:00 - 11:30"
-  },
-  {
-    "id": 38,
-    "title": "Mirage",
-    "description": "Illusions and reality merge in this spectacular tale.",
-    "director": "Liam Reed",
-    "duration": 102,
-    "posterUrl": "https://example.com/poster38.jpg",
-    "time": "12:00 - 13:45"
-  },
-  {
-    "id": 39,
-    "title": "Twilight",
-    "description": "A journey through dusk from light to darkness.",
-    "director": "Evelyn Hughes",
-    "duration": 110,
-    "posterUrl": "https://example.com/poster39.jpg",
-    "time": "14:00 - 15:30"
-  },
-  {
-    "id": 40,
-    "title": "Finale",
-    "description": "The climactic end to an unforgettable saga.",
-    "director": "Michael Bennett",
-    "duration": 116,
-    "posterUrl": "https://example.com/poster40.jpg",
-    "time": "16:00 - 17:30"
-  }
-]
+  [
+    {
+      "id": 1,
+      "title": "The Silent Forest",
+      "description": "Med kunsthistorien og internettets uendelige billedarkiv som byggesten har Jeppe Lange (‘Abyss’, CPH:DOX 2022) skabt et tankevækkende og underspillet morsomt værk, hvor en (fiktiv) kunstig intelligens udvikler selvbevidsthed ser på menneskehedens moralske begrænsninger med et nyt blik. Ligesom lysets og lydens spektrer strækker sig ud over menneskets opfattelse, opdager AI’en et mentalt spektrum, der er langt større, end hvad noget individuelt sind kan forstå, og skaber en hidtil uset forbindelse mellem teknologi og naturens skjulte mønstre.",
+      "director": "John Doe",
+      "duration": 120,
+      "posterUrl": "https://example.com/poster1.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dystopia Dreams",
+      "description": "I en verden, hvor overvågning og datahøst har overtaget privatlivets rum, følger ‘Dystopia Dreams’ en gruppe unge, der drømmer om at bryde fri af algoritmernes jerngreb. Dokumentaristerne Jane Smith og Martin Krol undersøger, hvordan drømme og frihed bliver omsat til datapunkter – og hvilket menneskesyn, der gemmer sig bag de skærmbillede­styrede byer.",
+      "director": "Jane Smith",
+      "duration": 95,
+      "posterUrl": "https://example.com/poster2.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Echoes of Nature",
+      "description": "I ‘Echoes of Nature’ fører Alice Johnson os tilbage til rødderne, hvor menneske og natur samspiller. Gennem sanselige optagelser af skov, ørken og hav skitserer Johnson en rytme, der går på tværs af menneskets historie: fra oprindelige myter til nutidens klimakrise. Filmens lydside, optaget live med feltmikrofoner, lader naturens egne stemmer blive lige så tydelige som de menneskelige.",
+      "director": "Alice Johnson",
+      "duration": 110,
+      "posterUrl": "https://example.com/poster3.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Reflections",
+      "description": "Robert Brown undersøger spejlinger – både metaforisk og bogstaveligt. Hvem er ‘jeg’, når alt, vi ser, er en refleksion? Med hackede overflader, Instagram‑filtre og interaktive mirrorscapes udfordrer filmen vores selvbilleder og den kulturelle besættelse af ‘det perfekte selfie’.",
+      "director": "Robert Brown",
+      "duration": 105,
+      "posterUrl": "https://example.com/poster4.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mystic River",
+      "description": "Emily Davis tager os med til en lille flods bygd, hvor locale legender om et åndeligt væsen har præget generationer. Gennem interviews med ældste og optagelser af natlige ceremonier væves en fortælling om, hvordan tro og virkelighed kan smelte sammen i en tid, hvor det digitale ekspanderer vores forestillinger om det ukendte.",
+      "director": "Emily Davis",
+      "duration": 115,
+      "posterUrl": "https://example.com/poster5.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Urban Shadows",
+      "description": "Michael Wilson skildrer byens usynlige lag: graffiti, rumvæsendrømme og natte­vandringer gennem nedlagte fabrikshaller. Filmen blander reportage med drømme­agtige sekvenser, der stiller spørgsmålstegn ved, hvem der ejer byens rum, når solen går ned, og asfalten vågner.",
+      "director": "Michael Wilson",
+      "duration": 100,
+      "posterUrl": "https://example.com/poster6.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Celestial Dreams",
+      "description": "Laura Thomas’ visuelt storslåede digt om kosmos bader biograflærredet i stjernestøv. Med ultra‑slowmotion og time‑lapse får vi indtryk af universets langsomme puls. Når filmen glider mellem fakta og poesi, minder den os om vores små skridt på en kugle i et uendeligt rum.",
+      "director": "Laura Thomas",
+      "duration": 130,
+      "posterUrl": "https://example.com/poster7.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Infinite Horizons",
+      "description": "David Moore stiller spørgsmålet: Hvor slutter horisonten, og begynder det ukendte? Filmens roadtrip fra kyst til kyst, fra sandklitter til neonoplyste metropoler, bliver et spejl for vores egen grænseløse nysgerrighed – og vores evindelige jagt på næste destination.",
+      "director": "David Moore",
+      "duration": 98,
+      "posterUrl": "https://example.com/poster8.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fragments",
+      "description": "Sophia Taylor klipper hver scene som en drøm i brudstykker, hvor tid og rum fragmenteres. Interviewede personer fortæller om brudstykker af deres liv: en barndomsven, et tabt kærlighedsbrev, et udsnit af et telefonopkald. Sammen danner de et kalejdoskopisk billede af, hvordan vi husker – og glemmer.",
+      "director": "Sophia Taylor",
+      "duration": 112,
+      "posterUrl": "https://example.com/poster9.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Shattered Light",
+      "description": "James Anderson undersøger lysets skyggesider: Hvordan kan noget så livgivende også blænde os og manipulere vores opfattelse? Via mikro‑installationer, der leger med prismatiske effekter, balancekunstnere i krystalkorridorer og visuelle eksperimenter, bliver lyset i ‘Shattered Light’ både skaber og sabotør.",
+      "director": "James Anderson",
+      "duration": 107,
+      "posterUrl": "https://example.com/poster10.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Whispers",
+      "description": "Olivia Martinez lytter til lavmælt tale: vuggende børnerim, hvisken i kirkerum og hemmelige dagbogsuddrag. Ved at zoome ind på det sagte og skyggefulde opstiller filmen en parallel mellem det, vi vælger at sige højt, og det, vi kun vover at hviske.",
+      "director": "Olivia Martinez",
+      "duration": 105,
+      "posterUrl": "https://example.com/poster11.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Burning Skies",
+      "description": "William Hernandez drager mod ørkenens brændende horisonter for at dokumentere flygtige naturfænomener: ildstorme, solnedgange og sandstorme, der maler himlen i blodrødt og indhyller landskabet i et brændende skær. Filmen stiller spørgsmål: Hvordan påvirker vores fælles klimafortælling opfattelsen af skønhed?",
+      "director": "William Hernandez",
+      "duration": 120,
+      "posterUrl": "https://example.com/poster12.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Last Echo",
+      "description": "Ava Clark følger en lydkunstner, der indsamler de sidste ekkoer i forladte miner, jernbaner og kirkeruiner. Hvert rum bærer sin egen resonans, og som Clark lytter, folder der sig en historie om tidens uafvendelige viderefart – og om alt det, der engang var.",
+      "director": "Ava Clark",
+      "duration": 110,
+      "posterUrl": "https://example.com/poster13.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Nebula's Embrace",
+      "description": "Ethan Lewis inviterer os til et nærbillede af galakser set gennem amatørteleskoper og rumsonder. Med kombination af animation og dokumentarisk video udforsker ‘Nebula’s Embrace’ menneskets evige længsel efter at blive ét med universet.",
+      "director": "Ethan Lewis",
+      "duration": 125,
+      "posterUrl": "https://example.com/poster14.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Deep Waters",
+      "description": "Mia Robinson dykker med robot‑submariner i dybet for at indfange havets ukendte arter. Gennem 360°‑optagelser under vandfladen fremstår havets dyb som både frygtindgydende og fortryllende – en ensom verden, hvor tid måles i langsomdriftede bølger.",
+      "director": "Mia Robinson",
+      "duration": 102,
+      "posterUrl": "https://example.com/poster15.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Crimson Tides",
+      "description": "Benjamin Walker rejser langs kyster, hvor blodrøde tidevand markerer historiske slagmarker. Ved at sammenkoble dokumentariske genfortællinger med visuelle metaforer om farven rød stiller filmen spørgsmål om, hvordan vi husker – og glemmer – vores krige.",
+      "director": "Benjamin Walker",
+      "duration": 115,
+      "posterUrl": "https://example.com/poster16.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Silent Reverie",
+      "description": "Charlotte Young lader kameraet hvile på øde scenerier: tågedækkede sletter, forladte gyngeapparater, forvitrede gravsten. Med minimalistisk lydside opstår en meditativ tilstand, hvor beskueren inviteres til at drømme sig ind i stilheden.",
+      "director": "Charlotte Young",
+      "duration": 108,
+      "posterUrl": "https://example.com/poster17.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Dawn of Shadows",
+      "description": "Alexander Hall fanger det flygtige øjeblik, hvor natten slutter, og dagen begynder. Gjennom timelapse og slowmotion accentueres overgangen fra mørke til lys – et poetisk studie af de skygger, vi efterlader bag os.",
+      "director": "Alexander Hall",
+      "duration": 95,
+      "posterUrl": "https://example.com/poster18.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Celestial Voyage",
+      "description": "Amelia Allen kortlægger stjernetegn og mytologier i et eksperimentelt essay. Gennem animationer og interviews med astronomer undersøges, hvordan vores stjernebilleder former fortællinger om skæbne og sammenhæng.",
+      "director": "Amelia Allen",
+      "duration": 132,
+      "posterUrl": "https://example.com/poster19.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Grit & Glory",
+      "description": "Daniel Wright følger en gruppe ekstreme sportsudøvere gennem ørkenen, over bjerge og ned ad isklædte floder. Med GoPro‑kameraer helt tæt på krop og sind skildres menneskets kamp mod egen udmattelse – og hans ukuelige lyst til triumf.",
+      "director": "Daniel Wright",
+      "duration": 110,
+      "posterUrl": "https://example.com/poster20.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Midnight Echoes",
+      "description": "Sofia Scott blænder lyset fra og lytter til nattens lyde: sirener, fjerne billygter, ensomme fodtrin i baggårde. Gennem PoV‑optagelser fra nattevandringer skabes et lydlandskab, der afslører byens usete rytme.",
+      "director": "Sofia Scott",
+      "duration": 104,
+      "posterUrl": "https://example.com/poster21.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Neon Dreams",
+      "description": "Lucas Adams udforsker en futuristisk by af neonlys og hologrammer. Med drømmeagtige slowmotion‑sekvenser inviteres vi ind i en verden, hvor teknologi og fantasi smelter sammen — og spørgsmålet melder sig: Hvor ender mennesket, og hvor begynder maskinen?",
+      "director": "Lucas Adams",
+      "duration": 99,
+      "posterUrl": "https://example.com/poster22.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Winds of Change",
+      "description": "Harper Baker følger en gruppe klimaflygtninge, der rejser gennem forladte landskaber på jagt efter nye hjem. Gennem personlige fortællinger og droneoptagelser af tårnhøje storme bringer filmen vindens kraft tættere på os.",
+      "director": "Harper Baker",
+      "duration": 107,
+      "posterUrl": "https://example.com/poster23.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Lost Horizons",
+      "description": "Samuel Gonzalez tager os med på en rejse mod fjerne klippekyster, tågeslørede bjergrygge og dybe dale. ‘Lost Horizons’ undersøger, hvorfor vi som mennesker altid søger ud mod det ukendte, selv når alt peger mod hjemmets trygge rammer.",
+      "director": "Samuel Gonzalez",
+      "duration": 113,
+      "posterUrl": "https://example.com/poster24.jpg",
+      "schedules": [
+        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
+        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
+        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+      ]
+    }
+  ]
