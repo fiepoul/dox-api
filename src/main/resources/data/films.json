@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "The Silent Forest",
+    "title": "I am everything",
     "description": "Med kunsthistorien og internettets uendelige billedarkiv som byggesten har Jeppe Lange (‘Abyss’, CPH:DOX 2022) skabt et tankevækkende og underspillet morsomt værk, hvor en (fiktiv) kunstig intelligens udvikler selvbevidsthed ser på menneskehedens moralske begrænsninger med et nyt blik. Ligesom lysets og lydens spektrer strækker sig ud over menneskets opfattelse, opdager AI’en et mentalt spektrum, der er langt større, end hvad noget individuelt sind kan forstå, og skaber en hidtil uset forbindelse mellem teknologi og naturens skjulte mønstre.",
-    "director": "John Doe",
+    "director": "Jeppe Lange",
     "duration": 120,
     "posterUrl": "https://example.com/poster1.jpg",
     "schedules": [
@@ -14,10 +14,10 @@
   },
   {
     "id": 2,
-    "title": "Dystopia Dreams",
-    "description": "I en verden, hvor overvågning og datahøst har overtaget privatlivets rum, følger ‘Dystopia Dreams’ en gruppe unge, der drømmer om at bryde fri af algoritmernes jerngreb. Dokumentaristerne Jane Smith og Martin Krol undersøger, hvordan drømme og frihed bliver omsat til datapunkter – og hvilket menneskesyn, der gemmer sig bag de skærmbillede­styrede byer.",
-    "director": "Jane Smith",
-    "duration": 95,
+    "title": "50 Meters",
+    "description": "Deeply charming Egyptian debut from an outswimming pool in Cario where an adult daughter's relationship with her good-natured father is universally recognizable about life's big questions.\n\nYomna is struggling to get her first movie made. It’s not easy to find your own means of expression without the right protagonist. And this is where her good-natured father literally enters the picture. He is an elderly gentleman, but he is young at heart and has many friends with whom he spends his time around an outdoor swimming pool in the middle of Cairo. Yomna turns the camera on her father, and soon her film takes shape before our very eyes. Although her father is a great guy, he may not have been so good at opening his heart to Yomna about the deeper questions of life. ’50 Meters’ is a deceptively simple film that is not afraid to swim in the deep end, and takes its ‘less is more’ philosophy to a whole new level of ‘more’. You will be looking forward to see Yomna Khattab’s next film before her debut is even over.",
+    "director": "Yomna Khattab",
+    "duration": 72,
     "posterUrl": "https://example.com/poster2.jpg",
     "schedules": [
       { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
@@ -27,10 +27,10 @@
   },
   {
     "id": 3,
-    "title": "Echoes of Nature",
-    "description": "I ‘Echoes of Nature’ fører Alice Johnson os tilbage til rødderne, hvor menneske og natur samspiller. Gennem sanselige optagelser af skov, ørken og hav skitserer Johnson en rytme, der går på tværs af menneskets historie: fra oprindelige myter til nutidens klimakrise. Filmens lydside, optaget live med feltmikrofoner, lader naturens egne stemmer blive lige så tydelige som de menneskelige.",
-    "director": "Alice Johnson",
-    "duration": 110,
+    "title": "2000 Meters to Andriivka",
+    "description": "An Oscar-winning Ukrainian director's unflinching film from the frontline, where a small group of soldiers fight their way two kilometers through a harsh landscape to liberate a village in ruins.\n\nWith barely a hundred inhabitants, the village of Andriivka is a dot on the map. But the town is strategically important, and when Russia invades Ukraine, a group of soldiers are tasked with liberating the town. From their position two kilometers away, they must fight their way through a harsh landscape under constant attack to reach and liberate the village from the occupying forces. \nOscar-winning director Mstyslav Chernov (’20 Days in Mariupol’, CPH:DOX 2023) is with them. ‘2000 Meters to Andriivka’ shows us a slice of the war in every detail. From the command center to the battlefield (shot with cameras mounted on the soldiers’ helmets), and to the burial of the dead. \n\nChernov’s film ranks among the most important (anti-)war films in history and is not blind to the desperation and hopelessness that is the tragic and chilling reality of any war. The film won the Directing",
+    "director": "Mstyslav Chernov ",
+    "duration": 107,
     "posterUrl": "https://example.com/poster3.jpg",
     "schedules": [
       { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
@@ -40,10 +40,11 @@
   },
   {
     "id": 4,
-    "title": "Reflections",
-    "description": "Robert Brown undersøger spejlinger – både metaforisk og bogstaveligt. Hvem er ‘jeg’, når alt, vi ser, er en refleksion? Med hackede overflader, Instagram‑filtre og interaktive mirrorscapes udfordrer filmen vores selvbilleder og den kulturelle besættelse af ‘det perfekte selfie’.",
-    "director": "Robert Brown",
-    "duration": 105,
+    "title": "9-Month Contract",
+    "tagline": "Ni måneders graviditet for 14.000 dollars? Et mangeårigt venskab mellem instruktør og hovedperson udvikler sig til en film om (ruge)moderskab og værdighed i en ureguleret industri i Tbilisi.",
+    "description": "For den enlige, georgiske mor Zhana er surrogatmoderskab den eneste mulighed for at give sin teenagedatter Elene et bedre og mere værdigt liv. Hun har ingen uddannelse, et job som kassedame i det lokale supermarked, og så er hun vokset op et sted mellem børnehjemmet og gaden i Tbilisi. I desperation lejer hun sin livmoder ud til udenlandske, barnløse par. 14.000 dollars for ni måneders graviditet. Beløbet, der i første omgang virker stort, slipper hurtigt op, og før hun ved af det, sidder hun fast i en ond spiral. Fra graviditet til graviditet forværres hendes helbred. Zhana prøver at holde sin voksende mave skjult for sin datter, men Elene vokser sig også større og klogere, og hvad sker der, når hun gennemskuer sin mor? Frygten for fattigdom og arbejdet som rugemor presser hendes aldrende krop til det yderste.\n\nKetevan Vashagashvili har skildret forholdet mellem mor og datter med tillid og nærvær gennem mange år, og skabt en uafrystelig film om en kvindes kærlighed til sin datter – og om det system, der står klar til at udnytte den.",
+    "director": "Ketevan Vashagashvili ",
+    "duration": 79,
     "posterUrl": "https://example.com/poster4.jpg",
     "schedules": [
       { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
@@ -53,10 +54,11 @@
   },
   {
     "id": 5,
-    "title": "Mystic River",
-    "description": "Emily Davis tager os med til en lille flods bygd, hvor locale legender om et åndeligt væsen har præget generationer. Gennem interviews med ældste og optagelser af natlige ceremonier væves en fortælling om, hvordan tro og virkelighed kan smelte sammen i en tid, hvor det digitale ekspanderer vores forestillinger om det ukendte.",
-    "director": "Emily Davis",
-    "duration": 115,
+    "title": "À demain sur la Lune",
+    "tagline": "An ordinary woman finds hope and an unexpected friend in her last months on Earth. A sensual film about life and death, where gratitude gets the last word.",
+    "description": "On the outskirts of a small town, a figure rides calmly through the forest on a horse that lights up in the twilight like a dream vision from another world. A motif that, in its quietly poetic power, says a lot about this warm, wise and deeply moving film. We are in Calais on the north coast of France. 39-year-old Amandine lives here with her husband and two young sons. A family like so many others – if only Amandine wasn’t terminally ill and had only a few months left to live. \n\nNow she is preparing herself and her family for what is to come. Still, Amandine is full of life and gratitude. Both for the time that has passed and the time she still has left. Scenes from her life in the hospital and at home paint a sensual and unsentimental picture of a singular human being. \n\nAnd the horse? It is actually employed at the hospital where it creates calm and presence, and where it can supposedly sense when a life is coming to an end. But as one of the hospital’s other patients says: ‘À demain sur la lune!’ – see you tomorrow on the moon.",
+    "director": "Thomas Balmès",
+    "duration": 80,
     "posterUrl": "https://example.com/poster5.jpg",
     "schedules": [
       { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
@@ -64,251 +66,285 @@
       { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
     ]
   },
-  {
-    "id": 6,
-    "title": "Urban Shadows",
-    "description": "Michael Wilson skildrer byens usynlige lag: graffiti, rumvæsendrømme og natte­vandringer gennem nedlagte fabrikshaller. Filmen blander reportage med drømme­agtige sekvenser, der stiller spørgsmålstegn ved, hvem der ejer byens rum, når solen går ned, og asfalten vågner.",
-    "director": "Michael Wilson",
-    "duration": 100,
-    "posterUrl": "https://example.com/poster6.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Celestial Dreams",
-    "description": "Laura Thomas’ visuelt storslåede digt om kosmos bader biograflærredet i stjernestøv. Med ultra‑slowmotion og time‑lapse får vi indtryk af universets langsomme puls. Når filmen glider mellem fakta og poesi, minder den os om vores små skridt på en kugle i et uendeligt rum.",
-    "director": "Laura Thomas",
-    "duration": 130,
-    "posterUrl": "https://example.com/poster7.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Infinite Horizons",
-    "description": "David Moore stiller spørgsmålet: Hvor slutter horisonten, og begynder det ukendte? Filmens roadtrip fra kyst til kyst, fra sandklitter til neonoplyste metropoler, bliver et spejl for vores egen grænseløse nysgerrighed – og vores evindelige jagt på næste destination.",
-    "director": "David Moore",
-    "duration": 98,
-    "posterUrl": "https://example.com/poster8.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Fragments",
-    "description": "Sophia Taylor klipper hver scene som en drøm i brudstykker, hvor tid og rum fragmenteres. Interviewede personer fortæller om brudstykker af deres liv: en barndomsven, et tabt kærlighedsbrev, et udsnit af et telefonopkald. Sammen danner de et kalejdoskopisk billede af, hvordan vi husker – og glemmer.",
-    "director": "Sophia Taylor",
-    "duration": 112,
-    "posterUrl": "https://example.com/poster9.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Shattered Light",
-    "description": "James Anderson undersøger lysets skyggesider: Hvordan kan noget så livgivende også blænde os og manipulere vores opfattelse? Via mikro‑installationer, der leger med prismatiske effekter, balancekunstnere i krystalkorridorer og visuelle eksperimenter, bliver lyset i ‘Shattered Light’ både skaber og sabotør.",
-    "director": "James Anderson",
-    "duration": 107,
-    "posterUrl": "https://example.com/poster10.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Whispers",
-    "description": "Olivia Martinez lytter til lavmælt tale: vuggende børnerim, hvisken i kirkerum og hemmelige dagbogsuddrag. Ved at zoome ind på det sagte og skyggefulde opstiller filmen en parallel mellem det, vi vælger at sige højt, og det, vi kun vover at hviske.",
-    "director": "Olivia Martinez",
-    "duration": 105,
-    "posterUrl": "https://example.com/poster11.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Burning Skies",
-    "description": "William Hernandez drager mod ørkenens brændende horisonter for at dokumentere flygtige naturfænomener: ildstorme, solnedgange og sandstorme, der maler himlen i blodrødt og indhyller landskabet i et brændende skær. Filmen stiller spørgsmål: Hvordan påvirker vores fælles klimafortælling opfattelsen af skønhed?",
-    "director": "William Hernandez",
-    "duration": 120,
-    "posterUrl": "https://example.com/poster12.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "The Last Echo",
-    "description": "Ava Clark følger en lydkunstner, der indsamler de sidste ekkoer i forladte miner, jernbaner og kirkeruiner. Hvert rum bærer sin egen resonans, og som Clark lytter, folder der sig en historie om tidens uafvendelige viderefart – og om alt det, der engang var.",
-    "director": "Ava Clark",
-    "duration": 110,
-    "posterUrl": "https://example.com/poster13.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Nebula's Embrace",
-    "description": "Ethan Lewis inviterer os til et nærbillede af galakser set gennem amatørteleskoper og rumsonder. Med kombination af animation og dokumentarisk video udforsker ‘Nebula’s Embrace’ menneskets evige længsel efter at blive ét med universet.",
-    "director": "Ethan Lewis",
-    "duration": 125,
-    "posterUrl": "https://example.com/poster14.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Deep Waters",
-    "description": "Mia Robinson dykker med robot‑submariner i dybet for at indfange havets ukendte arter. Gennem 360°‑optagelser under vandfladen fremstår havets dyb som både frygtindgydende og fortryllende – en ensom verden, hvor tid måles i langsomdriftede bølger.",
-    "director": "Mia Robinson",
-    "duration": 102,
-    "posterUrl": "https://example.com/poster15.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Crimson Tides",
-    "description": "Benjamin Walker rejser langs kyster, hvor blodrøde tidevand markerer historiske slagmarker. Ved at sammenkoble dokumentariske genfortællinger med visuelle metaforer om farven rød stiller filmen spørgsmål om, hvordan vi husker – og glemmer – vores krige.",
-    "director": "Benjamin Walker",
-    "duration": 115,
-    "posterUrl": "https://example.com/poster16.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Silent Reverie",
-    "description": "Charlotte Young lader kameraet hvile på øde scenerier: tågedækkede sletter, forladte gyngeapparater, forvitrede gravsten. Med minimalistisk lydside opstår en meditativ tilstand, hvor beskueren inviteres til at drømme sig ind i stilheden.",
-    "director": "Charlotte Young",
-    "duration": 108,
-    "posterUrl": "https://example.com/poster17.jpg",
-    "schedules": [
-      { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-      { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-      { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
-    ]
-  },
+  [
     {
-      "id": 18,
-      "title": "Dawn of Shadows",
-      "description": "Alexander Hall fanger det flygtige øjeblik, hvor natten slutter, og dagen begynder. Gjennom timelapse og slowmotion accentueres overgangen fra mørke til lys – et poetisk studie af de skygger, vi efterlader bag os.",
-      "director": "Alexander Hall",
-      "duration": 95,
-      "posterUrl": "https://example.com/poster18.jpg",
+      "id": 6,
+      "title": "A Family",
+      "country": "France",
+      "tagline": "Controversial and confrontational film debut from French author Christine Angot who confronts past abuse and the family that covered it up. A merciless film with a belligerent willpower.",
+      "description": "Christine Angot is recognised as one of the most important French writers of our time. She is also one of the most controversial – and her debut as a filmmaker does not change that fact. Once again, Angot takes the unwilling lead role in her own painful story of surviving sexual abuse from her father. The father is dead, but nothing is forgotten or forgiven. And now it’s time to confront those who did nothing to stop him. In a transgressive move, she visits distant family members with camera in hand to finally provoke reactions and responses. It is a method of conflict that turns everything you might think about documentary ethics on its head, but Angot does not spare herself either. As in her books, the honesty and vulnerability is so intense that you feel it in your own body. An unforgettable film from a woman with words as her weapon of choice.",
+      "director": "Christine Angot",
+      "duration": 82,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-01",
+          "time": "10:00 - 11:30",
+          "cinema": "Palads"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "12:00 - 13:30",
+          "cinema": "Cinemateket"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "14:00 - 15:30",
+          "cinema": "Gloria Biograf"
+        }
       ]
     },
     {
-      "id": 19,
-      "title": "Celestial Voyage",
-      "description": "Amelia Allen kortlægger stjernetegn og mytologier i et eksperimentelt essay. Gennem animationer og interviews med astronomer undersøges, hvordan vores stjernebilleder former fortællinger om skæbne og sammenhæng.",
-      "director": "Amelia Allen",
-      "duration": 132,
-      "posterUrl": "https://example.com/poster19.jpg",
+      "id": 7,
+      "title": "A Sisters’ Tale",
+      "year": 2024,
+      "tagline": "An Iranian housewife dreams of becoming a singer, but her husband and the regime say no. But it takes more than that to stop her in a genuine festival hit, filmed over seven years by her own sister.",
+      "description": "Nasreen lives a quiet life as a housewife in Tehran. Trapped in an arranged and unhappy marriage to an absent and conservative husband, she takes care of their two children. But her dreams extend far beyond the four walls of her home. What happens when a woman challenges the norms of a patriarchal society to follow her passion?\n\nNasreen decides to fulfill her lifelong dream of becoming a singer – and fight for her voice, both literally and symbolically. But she must do so in secret, as both her husband and the regime forbid her to sing. Her sister, filmmaker Leila Amini, has followed her closely with her camera for seven years. The result is a powerful and honest film filled with raw scenes – from hidden studio recordings to marital conflict.\n\nA Sisters’ Tale is the story of two empowered women who fight for the power of art and the right to independence in a system that oppresses women. Portrayed with an intimacy and tenderness that only exists between sisters.",
+      "director": "Leila Amini",
+      "duration": 94,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-02",
+          "time": "10:00 - 11:30",
+          "cinema": "Dagmar"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "12:00 - 13:30",
+          "cinema": "Empire Bio"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "14:00 - 15:30",
+          "cinema": "Vester Vov Vov"
+        }
       ]
     },
     {
-      "id": 20,
-      "title": "Grit & Glory",
-      "description": "Daniel Wright følger en gruppe ekstreme sportsudøvere gennem ørkenen, over bjerge og ned ad isklædte floder. Med GoPro‑kameraer helt tæt på krop og sind skildres menneskets kamp mod egen udmattelse – og hans ukuelige lyst til triumf.",
-      "director": "Daniel Wright",
-      "duration": 110,
-      "posterUrl": "https://example.com/poster20.jpg",
+      "id": 8,
+      "title": "A stranger in the world",
+      "tagline": "A filmmaker and his son with autism. A composer and his musical work inspired by the slow processes of dripstone caves. Two parallel love stories.",
+      "country":"Norway",
+      "year": 2024,
+      "description": "Composer Magnar Åm wanders through a stalactite cave deep underground to compose a musical work. Once a week, one drop falls from the stalactite at the top onto the stalagmite at the bottom. Slowly, perhaps over millions of years, they grow together. From this time perspective, human life is mercifully short – but maybe you can still see life in the drop? \n\nDirector Sturla Pilskog finds it difficult to understand the reality in which his son, who has autism, lives and acts. Through fragmented memories of his son’s challenged sensory life, he tries to find some kind of pattern. With the composer as a philosophical guide, the director tries to find a way to the center of the drop and in many ways find harmony in life. \n\nIn the encounter with the composer’s sensory world and his son’s autism, Pilskog has created a touching and artistic documentary – or rather, a journey of natural philosophy – about distance and closeness between people.",
+      "director": "Sturla Pilskog",
+      "duration": 30,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-03",
+          "time": "10:00 - 11:30",
+          "cinema": "Grand Teatret"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "12:00 - 13:30",
+          "cinema": "Palads"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "14:00 - 15:30",
+          "cinema": "Empire Bio"
+        }
       ]
     },
     {
-      "id": 21,
-      "title": "Midnight Echoes",
-      "description": "Sofia Scott blænder lyset fra og lytter til nattens lyde: sirener, fjerne billygter, ensomme fodtrin i baggårde. Gennem PoV‑optagelser fra nattevandringer skabes et lydlandskab, der afslører byens usete rytme.",
-      "director": "Sofia Scott",
-      "duration": 104,
-      "posterUrl": "https://example.com/poster21.jpg",
+      "id": 9,
+      "title": "Abode of Dawn",
+      "country":"Germany",
+      "year": 2024,
+      "tagline": "10 years in a Christian cult in the Siberian wilderness, where a growing following has realized the vision of a self-proclaimed prophet. A sensational debut.",
+      "description": "In the wild 90s after the collapse of the Soviet Union, a slew of Christian preachers emerged, all proclaiming themselves the Son of God. One of them was a traffic cop and painter who took the name Vissarion. In 1995, he founded One Family in the far reaches of Siberia. Here he still lives with his faithful disciples, in a utopian parallel society in harmony with nature and the guidelines he sets out. And here Kristina Shtubert has followed his disciples for 10 years in her sensational debut.\n\nWe meet the young German woman who married a short-tempered Russian man she never loved. The teenage girl who leaves the village for the city where she ends up in a severe drug addiction. The older woman who blindly follows Vissarion’s every word. And in an unforgettable scene, we finally meet the man himself.\n\nWithout judgement, Shtubert depicts life in the tajga. From the budding green gardens and playful children, to the white-clad ceremonies with round, shapely sacrificial bread, until three helicopters arrive and transform the tranquil wilderness community into an action film.",
+      "director": "Kristina Shtubert",
+      "duration":  105,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "10:00 - 11:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "10:00 - 11:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-04",
+          "time": "10:00 - 11:30",
+          "cinema": "Dagmar"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "12:00 - 13:30",
+          "cinema": "Gloria Biograf"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "14:00 - 15:30",
+          "cinema": "Park Bio"
+        }
       ]
     },
     {
-      "id": 22,
-      "title": "Neon Dreams",
-      "description": "Lucas Adams udforsker en futuristisk by af neonlys og hologrammer. Med drømmeagtige slowmotion‑sekvenser inviteres vi ind i en verden, hvor teknologi og fantasi smelter sammen — og spørgsmålet melder sig: Hvor ender mennesket, og hvor begynder maskinen?",
-      "director": "Lucas Adams",
-      "duration": 99,
-      "posterUrl": "https://example.com/poster22.jpg",
+      "id": 10,
+      "title": "About a Hero",
+      "tagline": "A hallucinatory crime mystery where an AI version of legendary filmmaker Werner Herzog must solve a suspicious death - all based on a script written by an AI.",
+      "country":"Denmark",
+      "year": 2024,
+      "description": "Legendary German filmmaker Werner Herzog has created some of the most incredible films in cinema history across documentary and fiction. So what happens if you ask an AI to ‘watch’ all his movies and write a script that Herzog himself could have conceived? The answer is: ‘About a Hero’. A film adaptation of an AI-generated script inspired by Herzog’s own work. \n\nWhen factory worker Dorem Clery dies under mysterious circumstances in Getunkirchenburg, ‘Herzog’ travels to the town to investigate. Some moments are so absurd that only the real Herzog could have come up with them. From a non-verbal witness statement to a sex scene with a toaster. \n\nIn between, artists, philosophers and scientists reflect on the concepts of originality and authenticity in the modern age. Werner Herzog once said that a machine will not be able to make a movie as good as his own for the next 4,500 years. Perhaps he already has to eat his own words?",
+      "director": "Piotr Winiewicz",
+      "duration": 84,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "12:00 - 13:45", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "12:00 - 13:45", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "12:00 - 13:45", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-05",
+          "time": "10:00 - 11:30",
+          "cinema": "Vester Vov Vov"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "12:00 - 13:30",
+          "cinema": "Gloria Biograf"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "14:00 - 15:30",
+          "cinema": "Gloria Biograf"
+        }
       ]
     },
     {
-      "id": 23,
-      "title": "Winds of Change",
-      "description": "Harper Baker følger en gruppe klimaflygtninge, der rejser gennem forladte landskaber på jagt efter nye hjem. Gennem personlige fortællinger og droneoptagelser af tårnhøje storme bringer filmen vindens kraft tættere på os.",
-      "director": "Harper Baker",
-      "duration": 107,
-      "posterUrl": "https://example.com/poster23.jpg",
+      "id": 11,
+      "title": "Afternoons of Solitude",
+      "tagline": "A controversial masterpiece from Catalan auteur Albert Serra that analyses the masculine death cult known as bullfighting with few words and seemingly simple means.",
+      "country": "Spain, France & Portugal",
+      "year": 2024,
+      "description": "The camera remains on the extremely charismatic young bullfighter Andrés Roca Rey for every minute of Albert Serra’s uncompromising, provocative and masterful film about the disgusting display of aestheticised cruelty called bullfighting. We are with the young matador in the arena, in the car before and after the fights, and in the luxury hotel where he dons the feminine garments soon to be soiled and torn apart. Rey is surrounded by a wall of male assistants, and Serra’s film offers a sublime – and transgressive – insight into the masculine death cult surrounding the young superstar. Rey is a ballet dancer with a pout and a sword hidden on his back. A young dandy, complete in his arrogance, honoured by the cheers of the audience under a burning sun. ‘Afternoons of Solitude’ is a work that leaves you to judge for yourself what you see.",
+      "director": "Albert Serra",
+      "duration": 125,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "14:00 - 15:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "14:00 - 15:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "14:00 - 15:30", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-06",
+          "time": "10:00 - 11:30",
+          "cinema": "Park Bio"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "12:00 - 13:30",
+          "cinema": "Vester Vov Vov"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "14:00 - 15:30",
+          "cinema": "Grand Teatret"
+        }
       ]
     },
     {
-      "id": 24,
-      "title": "Lost Horizons",
-      "description": "Samuel Gonzalez tager os med på en rejse mod fjerne klippekyster, tågeslørede bjergrygge og dybe dale. ‘Lost Horizons’ undersøger, hvorfor vi som mennesker altid søger ud mod det ukendte, selv når alt peger mod hjemmets trygge rammer.",
-      "director": "Samuel Gonzalez",
-      "duration": 113,
-      "posterUrl": "https://example.com/poster24.jpg",
+      "id": 12,
+      "title": "Agatha’s Almanac",
+      "tagline": "Defying modernity, 90-year-old Agatha forges a solitary existence on her ancestral farm preserving heirloom seeds. A film from a vanishing world, immersing us in a handmade universe.",
+      "country":"Canada",
+      "year": 2025,
+      "description": "The sun shines through a sealed jar of berries. An envelope of seeds marked with neat handwriting. The quiet drama of the changing seasons. ‘Agatha’s Almanac’ is a sensuous and cinematic portrait of 90-year-old Agatha who defies modernity and capitalism in favor of a simple, self-sufficient life on her ancestral farm. \n\nHere she tends her land and grows heirloom seeds that have been passed down for generations. Watermelons, beans, flowers, herbs and vegetables – her large garden provides her with everything she needs. The farm looks like it did in the 1950s and is in every way off the grid. Artist Amalie Atkins has created her portrait by hand in the spirit of her 90-year-old aunt: ‘Agatha’s Almanac’ was crafted on analog 16mm film over six years with a small all-female crew. \n\nJust as there is no modern technology in Agatha’s life, there are no modern political slogans to shout along to. It’s all action and consequence in one of the most uncompromisingly feminist films of the year. The fact that it’s also one of the most beautiful only testifies to how closely the two things are connected.",
+      "director": "Amalie Atkins",
+      "duration": 87,
+      "posterUrl": "",
       "schedules": [
-        { "date": "2025-05-05", "time": "16:00 - 17:30", "cinema": "Empire Bio" },
-        { "date": "2025-05-06", "time": "16:00 - 17:30", "cinema": "Grand Teatret" },
-        { "date": "2025-05-07", "time": "16:00 - 17:30", "cinema": "Cinemateket" }
+        {
+          "date": "2025-05-07",
+          "time": "10:00 - 11:30",
+          "cinema": "Dagmar"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "12:00 - 13:30",
+          "cinema": "Grand Teatret"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "14:00 - 15:30",
+          "cinema": "Cinemateket"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Exhibition",
+      "title": "Aggregate",
+      "tagline": "If an artificial intelligence were to learn to desire, what path would it take to bridge the space between intimacies? Aggregate is a collective process requiring a large number of players to take turns and experience reinforcement learning (punishment/reward) as they progress through the uncharted territory of machine learning and queer desire.",
+      "country":"France",
+      "year": 2024,
+      "description": "In the heart of a vast thicket strewn with electrical pylons and abandoned structures, the AI carves a network of aggregated desire lines through its arduous path, hoping that, in its next run, it might reach the object of its longing, held captive in a sightless fortress.\nIt stumbles, collapses, and begins again, learning a little more with each attempt.",
+      "director": "Distraction",
+      "duration": 1440,
+      "posterUrl": "",
+      "schedules": [
+        {
+          "date": "2025-05-08",
+          "time": "10:00 - 11:30",
+          "cinema": "Empire Bio"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "12:00 - 13:30",
+          "cinema": "Vester Vov Vov"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "14:00 - 15:30",
+          "cinema": "Vester Vov Vov"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Ai Weiwei’s Turandot",
+      "tagline": "Ai Weiwei makes his debut as an opera director with an interpretation of Puccini's 'Turandot' in Rome's Opera House. The classic and controversial opera has a lot to say about our own time.",
+      "country":"taly & United States",
+      "year": 2025,
+      "description": "Does an almost 100-year-old opera still have something to say about our own time? Chinese artist Ai Weiwei explores the question in his directorial debut as an opera director, with a radical reinterpretation of Puccini’s masterpiece ‘Turandot’ at the beautiful and classic Teatro dell’Opera in Rome. \n\nSet in a mythical past in Beijing, the opera is both beloved and controversial – accused of exoticism, racist stereotypes and banned from being performed in China. Perhaps that’s why Ai Weiwei chose to take it on. \n\nWith his artistic vision, he uses Turandot to reflect today’s global crises – from the war in Ukraine to refugee flows and pandemic. Maxim Derevianko’s film follows the Chinese artist’s creative process and shows how classical art can still provoke, challenge and perhaps even change our times.",
+      "director": "Maxim Derevianko",
+      "duration": 77,
+      "posterUrl": "",
+      "schedules": [
+        {
+          "date": "2025-05-09",
+          "time": "10:00 - 11:30",
+          "cinema": "Cinemateket"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "12:00 - 13:30",
+          "cinema": "Grand Teatret"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "14:00 - 15:30",
+          "cinema": "Dagmar"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "All These Summers",
+      "tagline": "What kind of presence is made possible by the cinematic encounter? With the camera as an intermediary, an artist punches a hole in the wall that separates her responsibilities as a filmmaker from her role as a daughter.",
+      "country":"United Kingdom & Denmark",
+      "year": 2025,
+      "description": "With an open approach and without a clearly defined intention, filmmaker Therese Henningsen explores her relationship with two men in her immediate vicinity: Her neighbor Pete in London and her father in Denmark. \n\nAs time passes, the attention elicits a response from both of them. The camera changes every situation. A cinematic dilemma that Henningsen makes part of her practice. With a handheld camera and an unwavering gaze, Henningsen opens up a relational method that raises a number of complex questions. What presence can a cinematic encounter make possible? How does the cinematic relationship affect experiences of loneliness and isolation? \n\nWhen her father is diagnosed with cancer and slips back into the depression that made him absent when she was a teenager, the situation paves the way for a reflection on their relationship as daughter and father, and as filmmaker and subject.",
+      "director": "Therese Henningsen ",
+      "duration": 66,
+      "posterUrl": "",
+      "schedules": [
+        {
+          "date": "2025-05-10",
+          "time": "10:00 - 11:30",
+          "cinema": "Dagmar"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "12:00 - 13:30",
+          "cinema": "Park Bio"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "14:00 - 15:30",
+          "cinema": "Vester Vov Vov"
+        }
       ]
     }
   ]
+]
