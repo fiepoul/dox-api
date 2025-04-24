@@ -66,7 +66,6 @@
       { "date": "2025-05-07", "time": "10:00 - 11:30", "cinema": "Cinemateket" }
     ]
   },
-  [
     {
       "id": 6,
       "title": "A Family",
@@ -345,9 +344,7 @@
           "cinema": "Vester Vov Vov"
         }
       ]
-    }
-  ],
-  [
+    },
     {
       "id": 16,
       "category": "World Premiere",
@@ -1363,5 +1360,4 @@
         }
       ]
     }
-  ]
 ]
